@@ -1,17 +1,8 @@
 <?php
-/**
- * 
- */
-class Usuario extends Sql
+
+class
 {
-	private $marcelo;
 	
-	public function getMarcelo(){
-		return $this->marcelo;
-	}
-	public function setMarcelo($m){
-		
-	}
 }
 
 
